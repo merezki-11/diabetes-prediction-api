@@ -1,0 +1,18 @@
+# Python environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local data or logs
+*.csv
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
